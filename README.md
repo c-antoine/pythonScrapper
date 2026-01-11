@@ -6,4 +6,4 @@
 ## This simple project is an example repo for Python projects.
 - __[structure]([https://selenium-python.readthedocs.io/](https://docs.python-guide.org/writing/structure/))__
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+If you want to learn more about ``setup.py`` files, check out this repository <https://github.com/kennethreitz/setup.py>.
