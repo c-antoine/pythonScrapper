@@ -1,6 +1,7 @@
 For web scrapping use, you can use beautifulsoup  or selenium
-`https://beautiful-soup-4.readthedocs.io/en/latest/`
-`https://selenium-python.readthedocs.io/`
+
+- __[beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)__ - basic scrapping
+- __[babelfish](https://selenium-python.readthedocs.io/)__ - much more dense
 
 This simple project is an example repo for Python projects.
 `https://docs.python-guide.org/writing/structure/`
